@@ -1,0 +1,50 @@
+[
+  {
+    "id": "clinton",
+    "name": "Clinton",
+    "fullName": "Bill Clinton",
+    "party": "democrat",
+    "start": "1993-01-20",
+    "end": "2001-01-20"
+  },
+  {
+    "id": "w-bush",
+    "name": "W. Bush",
+    "fullName": "George W. Bush",
+    "party": "republican",
+    "start": "2001-01-20",
+    "end": "2009-01-20"
+  },
+  {
+    "id": "obama",
+    "name": "Obama",
+    "fullName": "Barack Obama",
+    "party": "democrat",
+    "start": "2009-01-20",
+    "end": "2017-01-20"
+  },
+  {
+    "id": "trump",
+    "name": "Trump",
+    "fullName": "Donald Trump",
+    "party": "republican",
+    "start": "2017-01-20",
+    "end": "2021-01-20"
+  },
+  {
+    "id": "biden",
+    "name": "Biden",
+    "fullName": "Joe Biden",
+    "party": "democrat",
+    "start": "2021-01-20",
+    "end": "2025-01-20"
+  },
+  {
+    "id": "trump-2",
+    "name": "Trump 2",
+    "fullName": "Donald Trump (2nd Term)",
+    "party": "republican",
+    "start": "2025-01-20",
+    "end": null
+  }
+]

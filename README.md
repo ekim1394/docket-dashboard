@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Spicy Regs Dashboard
 
-## Getting Started
+A presidential regulatory timeline dashboard that visualizes U.S. federal regulatory dockets across administrations. Built by [CivicTechDC](https://civictechdc.org).
 
-First, run the development server:
+## What This Shows
+
+- **Docket volume** by agency cluster over time
+- **Public comment engagement** trends
+- **Agency activity** rankings per administration
+- **Regulatory focus** shifts between policy clusters (environment, health, finance, defense, etc.)
+
+Data covers Clinton through the current administration (~2000–present), sourced from [regulations.gov](https://www.regulations.gov) via [Mirrulations](https://github.com/MoravianUniversity/mirrern).
+
+## Quick Start
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000/spicy-regs-dashboard
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Architecture
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+Cloudflare R2 (Parquet) → Python/DuckDB script → JSON files → Next.js static site → GitHub Pages
+```
 
-## Learn More
+- **No backend, no API keys, no database** — the dashboard is a fully static site
+- Data is pre-aggregated into small JSON files (~120KB total)
+- Charts are self-contained React components using [Recharts](https://recharts.org)
 
-To learn more about Next.js, take a look at the following resources:
+## Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is designed for **first-time contributors**. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add a chart in 5 minutes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tech Stack
 
-## Deploy on Vercel
+- [Next.js 16](https://nextjs.org) — React framework (static export)
+- [Recharts](https://recharts.org) — Charting library
+- [Tailwind CSS 4](https://tailwindcss.com) — Styling
+- [DuckDB](https://duckdb.org) — Data aggregation (Python script only)
+- [GitHub Pages](https://pages.github.com) — Hosting
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Data Update
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+uv run --with duckdb python scripts/aggregate.py
+```
+
+## Part of the Spicy Regs Ecosystem
+
+| Project | Description |
+|---------|-------------|
+| [spicy-regs](https://github.com/civictechdc/spicy-regs) | ETL pipeline + main frontend |
+| [spicy-regs-agent](https://github.com/civictechdc/spicy-regs-agent) | AI docket analysis agent |
+| **spicy-regs-dashboard** | This project — presidential timeline dashboard |
+
+## License
+
+Open source under the [MIT License](LICENSE).

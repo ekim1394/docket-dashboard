@@ -1,0 +1,310 @@
+{
+  "mappings": [
+    {
+      "agencyCode": "EPA",
+      "cluster": "environment"
+    },
+    {
+      "agencyCode": "DOE",
+      "cluster": "environment"
+    },
+    {
+      "agencyCode": "NOAA",
+      "cluster": "environment"
+    },
+    {
+      "agencyCode": "DOI",
+      "cluster": "environment"
+    },
+    {
+      "agencyCode": "USDA",
+      "cluster": "environment"
+    },
+    {
+      "agencyCode": "FDA",
+      "cluster": "health"
+    },
+    {
+      "agencyCode": "HHS",
+      "cluster": "health"
+    },
+    {
+      "agencyCode": "CMS",
+      "cluster": "health"
+    },
+    {
+      "agencyCode": "CDC",
+      "cluster": "health"
+    },
+    {
+      "agencyCode": "NIH",
+      "cluster": "health"
+    },
+    {
+      "agencyCode": "SEC",
+      "cluster": "finance"
+    },
+    {
+      "agencyCode": "CFTC",
+      "cluster": "finance"
+    },
+    {
+      "agencyCode": "FTC",
+      "cluster": "finance"
+    },
+    {
+      "agencyCode": "FDIC",
+      "cluster": "finance"
+    },
+    {
+      "agencyCode": "OCC",
+      "cluster": "finance"
+    },
+    {
+      "agencyCode": "CFPB",
+      "cluster": "finance"
+    },
+    {
+      "agencyCode": "DOD",
+      "cluster": "defense"
+    },
+    {
+      "agencyCode": "DHS",
+      "cluster": "defense"
+    },
+    {
+      "agencyCode": "VA",
+      "cluster": "defense"
+    },
+    {
+      "agencyCode": "DOT",
+      "cluster": "transportation"
+    },
+    {
+      "agencyCode": "FAA",
+      "cluster": "transportation"
+    },
+    {
+      "agencyCode": "FMCSA",
+      "cluster": "transportation"
+    },
+    {
+      "agencyCode": "NHTSA",
+      "cluster": "transportation"
+    },
+    {
+      "agencyCode": "FRA",
+      "cluster": "transportation"
+    },
+    {
+      "agencyCode": "FCC",
+      "cluster": "communications"
+    }
+  ],
+  "byAdmin": [
+    {
+      "adminId": "clinton",
+      "cluster": "transportation",
+      "docketCount": 6710,
+      "percentage": 56.9
+    },
+    {
+      "adminId": "clinton",
+      "cluster": "other",
+      "docketCount": 3170,
+      "percentage": 26.9
+    },
+    {
+      "adminId": "clinton",
+      "cluster": "environment",
+      "docketCount": 1275,
+      "percentage": 10.8
+    },
+    {
+      "adminId": "clinton",
+      "cluster": "health",
+      "docketCount": 638,
+      "percentage": 5.4
+    },
+    {
+      "adminId": "w-bush",
+      "cluster": "other",
+      "docketCount": 45002,
+      "percentage": 47.8
+    },
+    {
+      "adminId": "w-bush",
+      "cluster": "transportation",
+      "docketCount": 17964,
+      "percentage": 19.1
+    },
+    {
+      "adminId": "w-bush",
+      "cluster": "health",
+      "docketCount": 14719,
+      "percentage": 15.6
+    },
+    {
+      "adminId": "w-bush",
+      "cluster": "environment",
+      "docketCount": 13986,
+      "percentage": 14.9
+    },
+    {
+      "adminId": "w-bush",
+      "cluster": "defense",
+      "docketCount": 1919,
+      "percentage": 2.0
+    },
+    {
+      "adminId": "w-bush",
+      "cluster": "finance",
+      "docketCount": 544,
+      "percentage": 0.6
+    },
+    {
+      "adminId": "obama",
+      "cluster": "other",
+      "docketCount": 51347,
+      "percentage": 44.1
+    },
+    {
+      "adminId": "obama",
+      "cluster": "transportation",
+      "docketCount": 34595,
+      "percentage": 29.7
+    },
+    {
+      "adminId": "obama",
+      "cluster": "environment",
+      "docketCount": 13191,
+      "percentage": 11.3
+    },
+    {
+      "adminId": "obama",
+      "cluster": "health",
+      "docketCount": 11987,
+      "percentage": 10.3
+    },
+    {
+      "adminId": "obama",
+      "cluster": "defense",
+      "docketCount": 3875,
+      "percentage": 3.3
+    },
+    {
+      "adminId": "obama",
+      "cluster": "finance",
+      "docketCount": 1536,
+      "percentage": 1.3
+    },
+    {
+      "adminId": "trump",
+      "cluster": "health",
+      "docketCount": 27902,
+      "percentage": 43.1
+    },
+    {
+      "adminId": "trump",
+      "cluster": "other",
+      "docketCount": 20854,
+      "percentage": 32.2
+    },
+    {
+      "adminId": "trump",
+      "cluster": "transportation",
+      "docketCount": 8616,
+      "percentage": 13.3
+    },
+    {
+      "adminId": "trump",
+      "cluster": "environment",
+      "docketCount": 5156,
+      "percentage": 8.0
+    },
+    {
+      "adminId": "trump",
+      "cluster": "defense",
+      "docketCount": 1450,
+      "percentage": 2.2
+    },
+    {
+      "adminId": "trump",
+      "cluster": "finance",
+      "docketCount": 780,
+      "percentage": 1.2
+    },
+    {
+      "adminId": "biden",
+      "cluster": "other",
+      "docketCount": 44017,
+      "percentage": 39.4
+    },
+    {
+      "adminId": "biden",
+      "cluster": "health",
+      "docketCount": 30302,
+      "percentage": 27.1
+    },
+    {
+      "adminId": "biden",
+      "cluster": "transportation",
+      "docketCount": 21639,
+      "percentage": 19.4
+    },
+    {
+      "adminId": "biden",
+      "cluster": "environment",
+      "docketCount": 10435,
+      "percentage": 9.3
+    },
+    {
+      "adminId": "biden",
+      "cluster": "defense",
+      "docketCount": 2944,
+      "percentage": 2.6
+    },
+    {
+      "adminId": "biden",
+      "cluster": "finance",
+      "docketCount": 2467,
+      "percentage": 2.2
+    },
+    {
+      "adminId": "trump-2",
+      "cluster": "health",
+      "docketCount": 6761,
+      "percentage": 41.2
+    },
+    {
+      "adminId": "trump-2",
+      "cluster": "other",
+      "docketCount": 4424,
+      "percentage": 27.0
+    },
+    {
+      "adminId": "trump-2",
+      "cluster": "transportation",
+      "docketCount": 3925,
+      "percentage": 23.9
+    },
+    {
+      "adminId": "trump-2",
+      "cluster": "environment",
+      "docketCount": 857,
+      "percentage": 5.2
+    },
+    {
+      "adminId": "trump-2",
+      "cluster": "defense",
+      "docketCount": 245,
+      "percentage": 1.5
+    },
+    {
+      "adminId": "trump-2",
+      "cluster": "finance",
+      "docketCount": 198,
+      "percentage": 1.2
+    }
+  ]
+}

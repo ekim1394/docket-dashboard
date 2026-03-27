@@ -1,0 +1,53 @@
+name: New Chart Component
+description: Request or propose a new chart for the dashboard
+labels: ["good first issue", "chart"]
+body:
+  - type: input
+    id: chart-name
+    attributes:
+      label: Chart Name
+      description: What should this chart be called?
+      placeholder: e.g., "Comment Sentiment Over Time"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: data-file
+    attributes:
+      label: Data Source
+      description: Which JSON file should this chart use?
+      options:
+        - dockets-by-year.json
+        - comments-by-year.json
+        - agency-activity.json
+        - clusters.json
+        - administrations.json
+        - New data file needed
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What should this chart show?
+      description: Describe what the chart visualizes and why it's useful.
+      placeholder: "This chart would show..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: mockup
+    attributes:
+      label: Mockup or sketch (optional)
+      description: Paste an image, ASCII art, or description of what the chart should look like.
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty
+      options:
+        - Beginner (single Recharts component)
+        - Intermediate (filtering + data transformation)
+        - Advanced (new data aggregation needed)
+    validations:
+      required: true

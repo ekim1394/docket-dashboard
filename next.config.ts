@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: "export",
+  basePath: "/spicy-regs-dashboard",
+  images: { unoptimized: true },
   reactCompiler: true,
 };
 
