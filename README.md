@@ -32,7 +32,10 @@ Cloudflare R2 (Parquet) → Python/DuckDB script → JSON files → Next.js stat
 
 ## Contributing
 
-This project is designed for **first-time contributors**. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add a chart in 5 minutes.
+This project is designed for **first-time contributors**.
+
+- **New to open source?** Start with the [Onboarding Guide](ONBOARDING.md) — it matches issues to your skill level and walks you through Git/GitHub
+- **Ready to code?** See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add a chart in 5 minutes
 
 ## Tech Stack
 

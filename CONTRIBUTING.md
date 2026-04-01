@@ -1,6 +1,8 @@
 # Contributing to Spicy Regs Dashboard
 
-Welcome! This project is designed for contributors of **all experience levels**, including first-time programmers. If you can write a React component, you can contribute here.
+Welcome! This project is designed for contributors of **all experience levels**, including first-time programmers. You don't need to know React — there are issues for every skill level.
+
+> **New to open source or GitHub?** Start with the [Onboarding Guide](ONBOARDING.md) — it maps issues to your skill level and includes a full Git/GitHub walkthrough.
 
 ## Quick Start
 
@@ -102,7 +104,15 @@ npm run lint   # Make sure code passes lint
 npm run build  # Verify the build works
 ```
 
-Then open a pull request!
+Then open a pull request! If you're new to Git, see the [step-by-step walkthrough](ONBOARDING.md#git--github-walkthrough).
+
+## Non-Code Contributions
+
+Not ready to write code? You can still help:
+- **Write content** — Issue [#4](https://github.com/ekim1394/docket-dashboard/issues/4) needs explanatory text, not code
+- **Test the dashboard** — Try it in your browser, report bugs
+- **Review PRs** — Read other people's changes and leave feedback
+- **Improve docs** — Fix typos, clarify confusing sections
 
 ## How to Update Data
 
