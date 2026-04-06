@@ -254,46 +254,46 @@
   },
   {
     "year": 2023,
-    "total": 50279,
-    "environment": 3913,
+    "total": 50277,
+    "environment": 3909,
     "health": 14624,
     "finance": 1249,
     "defense": 1102,
     "transportation": 9402,
     "communications": 0,
-    "other": 19989
+    "other": 19991
   },
   {
     "year": 2024,
-    "total": 27602,
+    "total": 27604,
     "environment": 1887,
     "health": 8902,
     "finance": 707,
     "defense": 740,
     "transportation": 5581,
     "communications": 0,
-    "other": 9785
+    "other": 9787
   },
   {
     "year": 2025,
-    "total": 13368,
-    "environment": 721,
+    "total": 13380,
+    "environment": 722,
     "health": 5387,
     "finance": 168,
     "defense": 236,
     "transportation": 3096,
     "communications": 0,
-    "other": 3760
+    "other": 3771
   },
   {
     "year": 2026,
-    "total": 3754,
-    "environment": 167,
-    "health": 1619,
-    "finance": 48,
-    "defense": 41,
-    "transportation": 985,
+    "total": 5235,
+    "environment": 227,
+    "health": 2366,
+    "finance": 69,
+    "defense": 53,
+    "transportation": 1329,
     "communications": 0,
-    "other": 894
+    "other": 1191
   }
 ]
