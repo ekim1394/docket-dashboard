@@ -66,7 +66,7 @@ export default function StatsRow({
       {stats.map((stat) => (
         <div
           key={stat.label}
-          className="rounded-xl border border-zinc-800 bg-zinc-900 p-4 text-center"
+          className="rounded-xl border border-zinc-200 bg-white p-4 text-center dark:border-zinc-800 dark:bg-zinc-900"
         >
           <div className="text-2xl font-bold">{stat.value}</div>
           <div className="text-xs text-zinc-500">{stat.label}</div>

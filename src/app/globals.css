@@ -1,6 +1,30 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme inline {
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  
+  /* Map Tailwind's internal variables to your custom theme logic */
+  --color-background: var(--bg-color);
+  --color-foreground: var(--text-color);
+}
+
+@layer base {
+  :root {
+    color-scheme: light;
+    --bg-color: white;
+    --text-color: var(--color-zinc-900);
+  }
+
+  .dark {
+    color-scheme: dark;
+    --bg-color: var(--color-zinc-950);
+    --text-color: var(--color-zinc-100);
+  }
+
+  body {
+    @apply bg-background text-foreground transition-colors duration-200;
+  }
 }
