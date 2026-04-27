@@ -106,15 +106,15 @@
   },
   {
     "adminId": "clinton",
-    "agencyCode": "APHIS",
-    "agencyName": "APHIS",
+    "agencyCode": "SLSDC",
+    "agencyName": "SLSDC",
     "cluster": "other",
     "docketCount": 2
   },
   {
     "adminId": "clinton",
-    "agencyCode": "SLSDC",
-    "agencyName": "SLSDC",
+    "agencyCode": "APHIS",
+    "agencyName": "APHIS",
     "cluster": "other",
     "docketCount": 2
   },
@@ -582,16 +582,16 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "VA",
-    "agencyName": "Department of Veterans Affairs",
-    "cluster": "defense",
+    "agencyCode": "RHS",
+    "agencyName": "RHS",
+    "cluster": "other",
     "docketCount": 89
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "RHS",
-    "agencyName": "RHS",
-    "cluster": "other",
+    "agencyCode": "VA",
+    "agencyName": "Department of Veterans Affairs",
+    "cluster": "defense",
     "docketCount": 89
   },
   {
@@ -666,15 +666,15 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "NASA",
-    "agencyName": "National Aeronautics and Space Administration",
+    "agencyCode": "EEOC",
+    "agencyName": "EEOC",
     "cluster": "other",
     "docketCount": 71
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "EEOC",
-    "agencyName": "EEOC",
+    "agencyCode": "NASA",
+    "agencyName": "National Aeronautics and Space Administration",
     "cluster": "other",
     "docketCount": 71
   },
@@ -764,13 +764,6 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "EDA",
-    "agencyName": "EDA",
-    "cluster": "other",
-    "docketCount": 42
-  },
-  {
-    "adminId": "w-bush",
     "agencyCode": "HHSIG",
     "agencyName": "HHSIG",
     "cluster": "other",
@@ -778,10 +771,10 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "AOA",
-    "agencyName": "AOA",
+    "agencyCode": "EDA",
+    "agencyName": "EDA",
     "cluster": "other",
-    "docketCount": 39
+    "docketCount": 42
   },
   {
     "adminId": "w-bush",
@@ -792,10 +785,10 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "GIPSA",
-    "agencyName": "GIPSA",
+    "agencyCode": "AOA",
+    "agencyName": "AOA",
     "cluster": "other",
-    "docketCount": 38
+    "docketCount": 39
   },
   {
     "adminId": "w-bush",
@@ -808,6 +801,13 @@
     "adminId": "w-bush",
     "agencyCode": "OSM",
     "agencyName": "OSM",
+    "cluster": "other",
+    "docketCount": 38
+  },
+  {
+    "adminId": "w-bush",
+    "agencyCode": "GIPSA",
+    "agencyName": "GIPSA",
     "cluster": "other",
     "docketCount": 38
   },
@@ -862,15 +862,15 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "NTIA",
-    "agencyName": "NTIA",
+    "agencyCode": "FSA",
+    "agencyName": "FSA",
     "cluster": "other",
     "docketCount": 27
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "FSA",
-    "agencyName": "FSA",
+    "agencyCode": "NTIA",
+    "agencyName": "NTIA",
     "cluster": "other",
     "docketCount": 27
   },
@@ -904,13 +904,6 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "SLSDC",
-    "agencyName": "SLSDC",
-    "cluster": "other",
-    "docketCount": 22
-  },
-  {
-    "adminId": "w-bush",
     "agencyCode": "CDFI",
     "agencyName": "CDFI",
     "cluster": "other",
@@ -918,8 +911,15 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "ARS",
-    "agencyName": "ARS",
+    "agencyCode": "SLSDC",
+    "agencyName": "SLSDC",
+    "cluster": "other",
+    "docketCount": 22
+  },
+  {
+    "adminId": "w-bush",
+    "agencyCode": "BLS",
+    "agencyName": "BLS",
     "cluster": "other",
     "docketCount": 21
   },
@@ -932,8 +932,8 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "BLS",
-    "agencyName": "BLS",
+    "agencyCode": "ARS",
+    "agencyName": "ARS",
     "cluster": "other",
     "docketCount": 21
   },
@@ -974,13 +974,6 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "NLRB",
-    "agencyName": "NLRB",
-    "cluster": "other",
-    "docketCount": 11
-  },
-  {
-    "adminId": "w-bush",
     "agencyCode": "LMSO",
     "agencyName": "LMSO",
     "cluster": "other",
@@ -995,8 +988,15 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "OFCCP",
-    "agencyName": "OFCCP",
+    "agencyCode": "NLRB",
+    "agencyName": "NLRB",
+    "cluster": "other",
+    "docketCount": 11
+  },
+  {
+    "adminId": "w-bush",
+    "agencyCode": "BOP",
+    "agencyName": "BOP",
     "cluster": "other",
     "docketCount": 10
   },
@@ -1009,31 +1009,10 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "BOP",
-    "agencyName": "BOP",
+    "agencyCode": "OFCCP",
+    "agencyName": "OFCCP",
     "cluster": "other",
     "docketCount": 10
-  },
-  {
-    "adminId": "w-bush",
-    "agencyCode": "EOIR",
-    "agencyName": "EOIR",
-    "cluster": "other",
-    "docketCount": 9
-  },
-  {
-    "adminId": "w-bush",
-    "agencyCode": "ECSA",
-    "agencyName": "ECSA",
-    "cluster": "other",
-    "docketCount": 9
-  },
-  {
-    "adminId": "w-bush",
-    "agencyCode": "BIA",
-    "agencyName": "BIA",
-    "cluster": "other",
-    "docketCount": 9
   },
   {
     "adminId": "w-bush",
@@ -1058,15 +1037,43 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "FLETC",
-    "agencyName": "FLETC",
+    "agencyCode": "EOIR",
+    "agencyName": "EOIR",
+    "cluster": "other",
+    "docketCount": 9
+  },
+  {
+    "adminId": "w-bush",
+    "agencyCode": "BIA",
+    "agencyName": "BIA",
+    "cluster": "other",
+    "docketCount": 9
+  },
+  {
+    "adminId": "w-bush",
+    "agencyCode": "ECSA",
+    "agencyName": "ECSA",
+    "cluster": "other",
+    "docketCount": 9
+  },
+  {
+    "adminId": "w-bush",
+    "agencyCode": "TA",
+    "agencyName": "TA",
     "cluster": "other",
     "docketCount": 8
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "NASS",
-    "agencyName": "NASS",
+    "agencyCode": "WAPA",
+    "agencyName": "WAPA",
+    "cluster": "other",
+    "docketCount": 8
+  },
+  {
+    "adminId": "w-bush",
+    "agencyCode": "FLETC",
+    "agencyName": "FLETC",
     "cluster": "other",
     "docketCount": 8
   },
@@ -1086,15 +1093,8 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "TA",
-    "agencyName": "TA",
-    "cluster": "other",
-    "docketCount": 8
-  },
-  {
-    "adminId": "w-bush",
-    "agencyCode": "WAPA",
-    "agencyName": "WAPA",
+    "agencyCode": "NASS",
+    "agencyName": "NASS",
     "cluster": "other",
     "docketCount": 8
   },
@@ -1114,13 +1114,6 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "RTB",
-    "agencyName": "RTB",
-    "cluster": "other",
-    "docketCount": 5
-  },
-  {
-    "adminId": "w-bush",
     "agencyCode": "BPA",
     "agencyName": "BPA",
     "cluster": "other",
@@ -1128,10 +1121,10 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "ATF",
-    "agencyName": "ATF",
+    "agencyCode": "RTB",
+    "agencyName": "RTB",
     "cluster": "other",
-    "docketCount": 4
+    "docketCount": 5
   },
   {
     "adminId": "w-bush",
@@ -1149,22 +1142,15 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "EIA",
-    "agencyName": "EIA",
+    "agencyCode": "ATF",
+    "agencyName": "ATF",
     "cluster": "other",
-    "docketCount": 3
+    "docketCount": 4
   },
   {
     "adminId": "w-bush",
     "agencyCode": "OJP",
     "agencyName": "OJP",
-    "cluster": "other",
-    "docketCount": 3
-  },
-  {
-    "adminId": "w-bush",
-    "agencyCode": "USPC",
-    "agencyName": "USPC",
     "cluster": "other",
     "docketCount": 3
   },
@@ -1177,6 +1163,13 @@
   },
   {
     "adminId": "w-bush",
+    "agencyCode": "USPC",
+    "agencyName": "USPC",
+    "cluster": "other",
+    "docketCount": 3
+  },
+  {
+    "adminId": "w-bush",
     "agencyCode": "ERS",
     "agencyName": "ERS",
     "cluster": "other",
@@ -1184,15 +1177,22 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "CISA",
-    "agencyName": "CISA",
+    "agencyCode": "EIA",
+    "agencyName": "EIA",
+    "cluster": "other",
+    "docketCount": 3
+  },
+  {
+    "adminId": "w-bush",
+    "agencyCode": "OFPP",
+    "agencyName": "OFPP",
     "cluster": "other",
     "docketCount": 2
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "ISOO",
-    "agencyName": "ISOO",
+    "agencyCode": "CISA",
+    "agencyName": "CISA",
     "cluster": "other",
     "docketCount": 2
   },
@@ -1205,15 +1205,15 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "OFPP",
-    "agencyName": "OFPP",
+    "agencyCode": "ISOO",
+    "agencyName": "ISOO",
     "cluster": "other",
     "docketCount": 2
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "CSEO",
-    "agencyName": "CSEO",
+    "agencyCode": "SWPA",
+    "agencyName": "SWPA",
     "cluster": "other",
     "docketCount": 1
   },
@@ -1226,15 +1226,15 @@
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "ECAB",
-    "agencyName": "ECAB",
+    "agencyCode": "CSEO",
+    "agencyName": "CSEO",
     "cluster": "other",
     "docketCount": 1
   },
   {
     "adminId": "w-bush",
-    "agencyCode": "SWPA",
-    "agencyName": "SWPA",
+    "agencyCode": "ECAB",
+    "agencyName": "ECAB",
     "cluster": "other",
     "docketCount": 1
   },
@@ -1653,16 +1653,16 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "OCC",
-    "agencyName": "Office of the Comptroller of the Currency",
-    "cluster": "finance",
+    "agencyCode": "GSA",
+    "agencyName": "GSA",
+    "cluster": "other",
     "docketCount": 127
   },
   {
     "adminId": "obama",
-    "agencyCode": "GSA",
-    "agencyName": "GSA",
-    "cluster": "other",
+    "agencyCode": "OCC",
+    "agencyName": "Office of the Comptroller of the Currency",
+    "cluster": "finance",
     "docketCount": 127
   },
   {
@@ -1842,6 +1842,13 @@
   },
   {
     "adminId": "obama",
+    "agencyCode": "ASC",
+    "agencyName": "ASC",
+    "cluster": "other",
+    "docketCount": 38
+  },
+  {
+    "adminId": "obama",
     "agencyCode": "ITA",
     "agencyName": "ITA",
     "cluster": "other",
@@ -1856,24 +1863,10 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "ASC",
-    "agencyName": "ASC",
-    "cluster": "other",
-    "docketCount": 38
-  },
-  {
-    "adminId": "obama",
     "agencyCode": "ONRR",
     "agencyName": "ONRR",
     "cluster": "other",
     "docketCount": 36
-  },
-  {
-    "adminId": "obama",
-    "agencyCode": "NASA",
-    "agencyName": "National Aeronautics and Space Administration",
-    "cluster": "other",
-    "docketCount": 35
   },
   {
     "adminId": "obama",
@@ -1884,15 +1877,22 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "ICEB",
-    "agencyName": "ICEB",
+    "agencyCode": "NASA",
+    "agencyName": "National Aeronautics and Space Administration",
     "cluster": "other",
-    "docketCount": 34
+    "docketCount": 35
   },
   {
     "adminId": "obama",
     "agencyCode": "NARA",
     "agencyName": "NARA",
+    "cluster": "other",
+    "docketCount": 34
+  },
+  {
+    "adminId": "obama",
+    "agencyCode": "ICEB",
+    "agencyName": "ICEB",
     "cluster": "other",
     "docketCount": 34
   },
@@ -1919,13 +1919,6 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "OTS",
-    "agencyName": "OTS",
-    "cluster": "other",
-    "docketCount": 29
-  },
-  {
-    "adminId": "obama",
     "agencyCode": "BOP",
     "agencyName": "BOP",
     "cluster": "other",
@@ -1933,15 +1926,22 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "NIFA",
-    "agencyName": "NIFA",
+    "agencyCode": "OTS",
+    "agencyName": "OTS",
     "cluster": "other",
-    "docketCount": 24
+    "docketCount": 29
   },
   {
     "adminId": "obama",
     "agencyCode": "NLRB",
     "agencyName": "NLRB",
+    "cluster": "other",
+    "docketCount": 24
+  },
+  {
+    "adminId": "obama",
+    "agencyCode": "NIFA",
+    "agencyName": "NIFA",
     "cluster": "other",
     "docketCount": 24
   },
@@ -1954,15 +1954,15 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "HRSA",
-    "agencyName": "HRSA",
+    "agencyCode": "BLM",
+    "agencyName": "BLM",
     "cluster": "other",
     "docketCount": 23
   },
   {
     "adminId": "obama",
-    "agencyCode": "BLM",
-    "agencyName": "BLM",
+    "agencyCode": "HRSA",
+    "agencyName": "HRSA",
     "cluster": "other",
     "docketCount": 23
   },
@@ -1989,15 +1989,15 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "OFCCP",
-    "agencyName": "OFCCP",
+    "agencyCode": "EOIR",
+    "agencyName": "EOIR",
     "cluster": "other",
     "docketCount": 18
   },
   {
     "adminId": "obama",
-    "agencyCode": "EOIR",
-    "agencyName": "EOIR",
+    "agencyCode": "OFCCP",
+    "agencyName": "OFCCP",
     "cluster": "other",
     "docketCount": 18
   },
@@ -2017,15 +2017,15 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "USC",
-    "agencyName": "USC",
+    "agencyCode": "NSF",
+    "agencyName": "NSF",
     "cluster": "other",
     "docketCount": 16
   },
   {
     "adminId": "obama",
-    "agencyCode": "NSF",
-    "agencyName": "NSF",
+    "agencyCode": "NIGC",
+    "agencyName": "NIGC",
     "cluster": "other",
     "docketCount": 16
   },
@@ -2038,8 +2038,8 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "NIGC",
-    "agencyName": "NIGC",
+    "agencyCode": "USC",
+    "agencyName": "USC",
     "cluster": "other",
     "docketCount": 16
   },
@@ -2059,15 +2059,15 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "FRTIB",
-    "agencyName": "FRTIB",
+    "agencyCode": "WHD",
+    "agencyName": "WHD",
     "cluster": "other",
     "docketCount": 14
   },
   {
     "adminId": "obama",
-    "agencyCode": "WHD",
-    "agencyName": "WHD",
+    "agencyCode": "FRTIB",
+    "agencyName": "FRTIB",
     "cluster": "other",
     "docketCount": 14
   },
@@ -2080,15 +2080,15 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "OPPM",
-    "agencyName": "OPPM",
+    "agencyCode": "WCPO",
+    "agencyName": "WCPO",
     "cluster": "other",
     "docketCount": 12
   },
   {
     "adminId": "obama",
-    "agencyCode": "WCPO",
-    "agencyName": "WCPO",
+    "agencyCode": "OPPM",
+    "agencyName": "OPPM",
     "cluster": "other",
     "docketCount": 12
   },
@@ -2108,15 +2108,15 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "IHS",
-    "agencyName": "IHS",
+    "agencyCode": "LMSO",
+    "agencyName": "LMSO",
     "cluster": "other",
     "docketCount": 8
   },
   {
     "adminId": "obama",
-    "agencyCode": "NTIA",
-    "agencyName": "NTIA",
+    "agencyCode": "OJP",
+    "agencyName": "OJP",
     "cluster": "other",
     "docketCount": 8
   },
@@ -2129,15 +2129,15 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "LMSO",
-    "agencyName": "LMSO",
+    "agencyCode": "NTIA",
+    "agencyName": "NTIA",
     "cluster": "other",
     "docketCount": 8
   },
   {
     "adminId": "obama",
-    "agencyCode": "OJP",
-    "agencyName": "OJP",
+    "agencyCode": "IHS",
+    "agencyName": "IHS",
     "cluster": "other",
     "docketCount": 8
   },
@@ -2157,13 +2157,6 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "EDA",
-    "agencyName": "EDA",
-    "cluster": "other",
-    "docketCount": 6
-  },
-  {
-    "adminId": "obama",
     "agencyCode": "OFPP",
     "agencyName": "OFPP",
     "cluster": "other",
@@ -2171,8 +2164,8 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "FIRSTNET",
-    "agencyName": "FIRSTNET",
+    "agencyCode": "EDA",
+    "agencyName": "EDA",
     "cluster": "other",
     "docketCount": 6
   },
@@ -2180,6 +2173,13 @@
     "adminId": "obama",
     "agencyCode": "FFIEC",
     "agencyName": "FFIEC",
+    "cluster": "other",
+    "docketCount": 6
+  },
+  {
+    "adminId": "obama",
+    "agencyCode": "FIRSTNET",
+    "agencyName": "FIRSTNET",
     "cluster": "other",
     "docketCount": 6
   },
@@ -2199,6 +2199,13 @@
   },
   {
     "adminId": "obama",
+    "agencyCode": "FBI",
+    "agencyName": "FBI",
+    "cluster": "other",
+    "docketCount": 4
+  },
+  {
+    "adminId": "obama",
     "agencyCode": "FAS",
     "agencyName": "FAS",
     "cluster": "other",
@@ -2213,10 +2220,10 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "FBI",
-    "agencyName": "FBI",
+    "agencyCode": "OJJDP",
+    "agencyName": "OJJDP",
     "cluster": "other",
-    "docketCount": 4
+    "docketCount": 3
   },
   {
     "adminId": "obama",
@@ -2234,29 +2241,15 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "OJJDP",
-    "agencyName": "OJJDP",
-    "cluster": "other",
-    "docketCount": 3
-  },
-  {
-    "adminId": "obama",
-    "agencyCode": "NIST",
-    "agencyName": "NIST",
+    "agencyCode": "BPA",
+    "agencyName": "BPA",
     "cluster": "other",
     "docketCount": 2
   },
   {
     "adminId": "obama",
-    "agencyCode": "MBDA",
-    "agencyName": "MBDA",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "obama",
-    "agencyCode": "FTZB",
-    "agencyName": "FTZB",
+    "agencyCode": "WAPA",
+    "agencyName": "WAPA",
     "cluster": "other",
     "docketCount": 2
   },
@@ -2276,22 +2269,8 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "WAPA",
-    "agencyName": "WAPA",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "obama",
-    "agencyCode": "BPA",
-    "agencyName": "BPA",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "obama",
-    "agencyCode": "NNSA",
-    "agencyName": "NNSA",
+    "agencyCode": "ISOO",
+    "agencyName": "ISOO",
     "cluster": "other",
     "docketCount": 2
   },
@@ -2304,36 +2283,50 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "ISOO",
-    "agencyName": "ISOO",
+    "agencyCode": "NNSA",
+    "agencyName": "NNSA",
     "cluster": "other",
     "docketCount": 2
   },
   {
     "adminId": "obama",
-    "agencyCode": "CSREES",
-    "agencyName": "CSREES",
+    "agencyCode": "NIST",
+    "agencyName": "NIST",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "obama",
+    "agencyCode": "FTZB",
+    "agencyName": "FTZB",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "obama",
+    "agencyCode": "MBDA",
+    "agencyName": "MBDA",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "obama",
+    "agencyCode": "USDAIG",
+    "agencyName": "USDAIG",
     "cluster": "other",
     "docketCount": 1
   },
   {
     "adminId": "obama",
-    "agencyCode": "USMINT",
-    "agencyName": "USMINT",
+    "agencyCode": "SWPA",
+    "agencyName": "SWPA",
     "cluster": "other",
     "docketCount": 1
   },
   {
     "adminId": "obama",
-    "agencyCode": "ARS",
-    "agencyName": "ARS",
-    "cluster": "other",
-    "docketCount": 1
-  },
-  {
-    "adminId": "obama",
-    "agencyCode": "ESA",
-    "agencyName": "ESA",
+    "agencyCode": "OFR",
+    "agencyName": "OFR",
     "cluster": "other",
     "docketCount": 1
   },
@@ -2346,8 +2339,8 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "SWPA",
-    "agencyName": "SWPA",
+    "agencyCode": "AHRQ",
+    "agencyName": "AHRQ",
     "cluster": "other",
     "docketCount": 1
   },
@@ -2367,22 +2360,29 @@
   },
   {
     "adminId": "obama",
-    "agencyCode": "USDAIG",
-    "agencyName": "USDAIG",
+    "agencyCode": "USMINT",
+    "agencyName": "USMINT",
     "cluster": "other",
     "docketCount": 1
   },
   {
     "adminId": "obama",
-    "agencyCode": "AHRQ",
-    "agencyName": "AHRQ",
+    "agencyCode": "CSREES",
+    "agencyName": "CSREES",
     "cluster": "other",
     "docketCount": 1
   },
   {
     "adminId": "obama",
-    "agencyCode": "OFR",
-    "agencyName": "OFR",
+    "agencyCode": "ARS",
+    "agencyName": "ARS",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "obama",
+    "agencyCode": "ESA",
+    "agencyName": "ESA",
     "cluster": "other",
     "docketCount": 1
   },
@@ -2521,16 +2521,16 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "HUD",
-    "agencyName": "Department of Housing and Urban Development",
-    "cluster": "other",
+    "agencyCode": "DOD",
+    "agencyName": "Department of Defense",
+    "cluster": "defense",
     "docketCount": 369
   },
   {
     "adminId": "trump",
-    "agencyCode": "DOD",
-    "agencyName": "Department of Defense",
-    "cluster": "defense",
+    "agencyCode": "HUD",
+    "agencyName": "Department of Housing and Urban Development",
+    "cluster": "other",
     "docketCount": 369
   },
   {
@@ -2689,13 +2689,6 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "CNCS",
-    "agencyName": "CNCS",
-    "cluster": "other",
-    "docketCount": 99
-  },
-  {
-    "adminId": "trump",
     "agencyCode": "RBS",
     "agencyName": "RBS",
     "cluster": "other",
@@ -2703,16 +2696,23 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "USTR",
-    "agencyName": "USTR",
+    "agencyCode": "CNCS",
+    "agencyName": "CNCS",
     "cluster": "other",
-    "docketCount": 96
+    "docketCount": 99
   },
   {
     "adminId": "trump",
     "agencyCode": "OCC",
     "agencyName": "Office of the Comptroller of the Currency",
     "cluster": "finance",
+    "docketCount": 96
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "USTR",
+    "agencyName": "USTR",
+    "cluster": "other",
     "docketCount": 96
   },
   {
@@ -2829,15 +2829,15 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "EBSA",
-    "agencyName": "EBSA",
+    "agencyCode": "COLC",
+    "agencyName": "COLC",
     "cluster": "other",
     "docketCount": 41
   },
   {
     "adminId": "trump",
-    "agencyCode": "COLC",
-    "agencyName": "COLC",
+    "agencyCode": "EBSA",
+    "agencyName": "EBSA",
     "cluster": "other",
     "docketCount": 41
   },
@@ -2850,15 +2850,15 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "FSA",
-    "agencyName": "FSA",
+    "agencyCode": "ASC",
+    "agencyName": "ASC",
     "cluster": "other",
     "docketCount": 38
   },
   {
     "adminId": "trump",
-    "agencyCode": "ASC",
-    "agencyName": "ASC",
+    "agencyCode": "FSA",
+    "agencyName": "FSA",
     "cluster": "other",
     "docketCount": 38
   },
@@ -2906,15 +2906,15 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "NRCS",
-    "agencyName": "NRCS",
+    "agencyCode": "DOJ",
+    "agencyName": "Department of Justice",
     "cluster": "other",
     "docketCount": 29
   },
   {
     "adminId": "trump",
-    "agencyCode": "DOJ",
-    "agencyName": "Department of Justice",
+    "agencyCode": "NRCS",
+    "agencyName": "NRCS",
     "cluster": "other",
     "docketCount": 29
   },
@@ -2976,15 +2976,15 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "EOIR",
-    "agencyName": "EOIR",
+    "agencyCode": "NPS",
+    "agencyName": "NPS",
     "cluster": "other",
     "docketCount": 19
   },
   {
     "adminId": "trump",
-    "agencyCode": "NPS",
-    "agencyName": "NPS",
+    "agencyCode": "EOIR",
+    "agencyName": "EOIR",
     "cluster": "other",
     "docketCount": 19
   },
@@ -3004,13 +3004,6 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "ITA",
-    "agencyName": "ITA",
-    "cluster": "other",
-    "docketCount": 16
-  },
-  {
-    "adminId": "trump",
     "agencyCode": "USC",
     "agencyName": "USC",
     "cluster": "other",
@@ -3018,8 +3011,8 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "ICEB",
-    "agencyName": "ICEB",
+    "agencyCode": "ITA",
+    "agencyName": "ITA",
     "cluster": "other",
     "docketCount": 16
   },
@@ -3032,8 +3025,15 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "OFCCP",
-    "agencyName": "OFCCP",
+    "agencyCode": "ICEB",
+    "agencyName": "ICEB",
+    "cluster": "other",
+    "docketCount": 16
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "AID",
+    "agencyName": "AID",
     "cluster": "other",
     "docketCount": 15
   },
@@ -3046,8 +3046,8 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "AID",
-    "agencyName": "AID",
+    "agencyCode": "OFCCP",
+    "agencyName": "OFCCP",
     "cluster": "other",
     "docketCount": 15
   },
@@ -3088,6 +3088,13 @@
   },
   {
     "adminId": "trump",
+    "agencyCode": "NLRB",
+    "agencyName": "NLRB",
+    "cluster": "other",
+    "docketCount": 10
+  },
+  {
+    "adminId": "trump",
     "agencyCode": "CCC",
     "agencyName": "CCC",
     "cluster": "other",
@@ -3095,10 +3102,17 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "NLRB",
-    "agencyName": "NLRB",
+    "agencyCode": "NIST",
+    "agencyName": "NIST",
     "cluster": "other",
-    "docketCount": 10
+    "docketCount": 9
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "HRSA",
+    "agencyName": "HRSA",
+    "cluster": "other",
+    "docketCount": 9
   },
   {
     "adminId": "trump",
@@ -3116,22 +3130,8 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "HRSA",
-    "agencyName": "HRSA",
-    "cluster": "other",
-    "docketCount": 9
-  },
-  {
-    "adminId": "trump",
     "agencyCode": "ATBCB",
     "agencyName": "ATBCB",
-    "cluster": "other",
-    "docketCount": 9
-  },
-  {
-    "adminId": "trump",
-    "agencyCode": "NIST",
-    "agencyName": "NIST",
     "cluster": "other",
     "docketCount": 9
   },
@@ -3151,13 +3151,6 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "EAB",
-    "agencyName": "EAB",
-    "cluster": "other",
-    "docketCount": 5
-  },
-  {
-    "adminId": "trump",
     "agencyCode": "NASA",
     "agencyName": "National Aeronautics and Space Administration",
     "cluster": "other",
@@ -3165,8 +3158,22 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "PCLOB",
-    "agencyName": "PCLOB",
+    "agencyCode": "EAB",
+    "agencyName": "EAB",
+    "cluster": "other",
+    "docketCount": 5
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "OFAC",
+    "agencyName": "OFAC",
+    "cluster": "other",
+    "docketCount": 4
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "LMSO",
+    "agencyName": "LMSO",
     "cluster": "other",
     "docketCount": 4
   },
@@ -3186,24 +3193,10 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "LMSO",
-    "agencyName": "LMSO",
+    "agencyCode": "PCLOB",
+    "agencyName": "PCLOB",
     "cluster": "other",
     "docketCount": 4
-  },
-  {
-    "adminId": "trump",
-    "agencyCode": "OFAC",
-    "agencyName": "OFAC",
-    "cluster": "other",
-    "docketCount": 4
-  },
-  {
-    "adminId": "trump",
-    "agencyCode": "BOP",
-    "agencyName": "BOP",
-    "cluster": "other",
-    "docketCount": 3
   },
   {
     "adminId": "trump",
@@ -3216,6 +3209,13 @@
     "adminId": "trump",
     "agencyCode": "EAC",
     "agencyName": "EAC",
+    "cluster": "other",
+    "docketCount": 3
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "BOP",
+    "agencyName": "BOP",
     "cluster": "other",
     "docketCount": 3
   },
@@ -3235,22 +3235,8 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "OFPP",
-    "agencyName": "OFPP",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "trump",
-    "agencyCode": "CSB",
-    "agencyName": "CSB",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "trump",
-    "agencyCode": "IHS",
-    "agencyName": "IHS",
+    "agencyCode": "NTIA",
+    "agencyName": "NTIA",
     "cluster": "other",
     "docketCount": 2
   },
@@ -3263,29 +3249,15 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "NTIA",
-    "agencyName": "NTIA",
+    "agencyCode": "IHS",
+    "agencyName": "IHS",
     "cluster": "other",
     "docketCount": 2
   },
   {
     "adminId": "trump",
-    "agencyCode": "OPPM",
-    "agencyName": "OPPM",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "trump",
-    "agencyCode": "BOR",
-    "agencyName": "BOR",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "trump",
-    "agencyCode": "FSOC",
-    "agencyName": "FSOC",
+    "agencyCode": "OFPP",
+    "agencyName": "OFPP",
     "cluster": "other",
     "docketCount": 2
   },
@@ -3298,43 +3270,36 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "AHRQ",
-    "agencyName": "AHRQ",
+    "agencyCode": "OPPM",
+    "agencyName": "OPPM",
     "cluster": "other",
-    "docketCount": 1
+    "docketCount": 2
   },
   {
     "adminId": "trump",
-    "agencyCode": "FFIEC",
-    "agencyName": "FFIEC",
+    "agencyCode": "CSB",
+    "agencyName": "CSB",
     "cluster": "other",
-    "docketCount": 1
+    "docketCount": 2
   },
   {
     "adminId": "trump",
-    "agencyCode": "OFR",
-    "agencyName": "OFR",
+    "agencyCode": "FSOC",
+    "agencyName": "FSOC",
     "cluster": "other",
-    "docketCount": 1
+    "docketCount": 2
   },
   {
     "adminId": "trump",
-    "agencyCode": "USPC",
-    "agencyName": "USPC",
+    "agencyCode": "BOR",
+    "agencyName": "BOR",
     "cluster": "other",
-    "docketCount": 1
+    "docketCount": 2
   },
   {
     "adminId": "trump",
-    "agencyCode": "DEPO",
-    "agencyName": "DEPO",
-    "cluster": "other",
-    "docketCount": 1
-  },
-  {
-    "adminId": "trump",
-    "agencyCode": "VETS",
-    "agencyName": "VETS",
+    "agencyCode": "ERS",
+    "agencyName": "ERS",
     "cluster": "other",
     "docketCount": 1
   },
@@ -3347,6 +3312,27 @@
   },
   {
     "adminId": "trump",
+    "agencyCode": "VETS",
+    "agencyName": "VETS",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "USPC",
+    "agencyName": "USPC",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "FCSC",
+    "agencyName": "FCSC",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "trump",
     "agencyCode": "EDA",
     "agencyName": "EDA",
     "cluster": "other",
@@ -3354,8 +3340,8 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "SAMHSA",
-    "agencyName": "SAMHSA",
+    "agencyCode": "AHRQ",
+    "agencyName": "AHRQ",
     "cluster": "other",
     "docketCount": 1
   },
@@ -3368,15 +3354,29 @@
   },
   {
     "adminId": "trump",
-    "agencyCode": "ERS",
-    "agencyName": "ERS",
+    "agencyCode": "OFR",
+    "agencyName": "OFR",
     "cluster": "other",
     "docketCount": 1
   },
   {
     "adminId": "trump",
-    "agencyCode": "FCSC",
-    "agencyName": "FCSC",
+    "agencyCode": "FFIEC",
+    "agencyName": "FFIEC",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "SAMHSA",
+    "agencyName": "SAMHSA",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "trump",
+    "agencyCode": "DEPO",
+    "agencyName": "DEPO",
     "cluster": "other",
     "docketCount": 1
   },
@@ -3413,7 +3413,7 @@
     "agencyCode": "FMCSA",
     "agencyName": "Federal Motor Carrier Safety Administration",
     "cluster": "transportation",
-    "docketCount": 990
+    "docketCount": 989
   },
   {
     "adminId": "biden",
@@ -3725,15 +3725,15 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "EIB",
-    "agencyName": "EIB",
+    "agencyCode": "GSA",
+    "agencyName": "GSA",
     "cluster": "other",
     "docketCount": 90
   },
   {
     "adminId": "biden",
-    "agencyCode": "GSA",
-    "agencyName": "GSA",
+    "agencyCode": "EIB",
+    "agencyName": "EIB",
     "cluster": "other",
     "docketCount": 90
   },
@@ -3753,16 +3753,16 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "EBSA",
-    "agencyName": "EBSA",
-    "cluster": "other",
+    "agencyCode": "DOI",
+    "agencyName": "Department of the Interior",
+    "cluster": "environment",
     "docketCount": 77
   },
   {
     "adminId": "biden",
-    "agencyCode": "DOI",
-    "agencyName": "Department of the Interior",
-    "cluster": "environment",
+    "agencyCode": "EBSA",
+    "agencyName": "EBSA",
+    "cluster": "other",
     "docketCount": 77
   },
   {
@@ -3781,13 +3781,6 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "USCIS",
-    "agencyName": "U.S. Citizenship and Immigration Services",
-    "cluster": "other",
-    "docketCount": 65
-  },
-  {
-    "adminId": "biden",
     "agencyCode": "ASC",
     "agencyName": "ASC",
     "cluster": "other",
@@ -3802,6 +3795,13 @@
   },
   {
     "adminId": "biden",
+    "agencyCode": "USCIS",
+    "agencyName": "U.S. Citizenship and Immigration Services",
+    "cluster": "other",
+    "docketCount": 65
+  },
+  {
+    "adminId": "biden",
     "agencyCode": "FSA",
     "agencyName": "FSA",
     "cluster": "other",
@@ -3809,15 +3809,15 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "NRCS",
-    "agencyName": "NRCS",
+    "agencyCode": "SBA",
+    "agencyName": "Small Business Administration",
     "cluster": "other",
     "docketCount": 59
   },
   {
     "adminId": "biden",
-    "agencyCode": "SBA",
-    "agencyName": "Small Business Administration",
+    "agencyCode": "NRCS",
+    "agencyName": "NRCS",
     "cluster": "other",
     "docketCount": 59
   },
@@ -3844,16 +3844,16 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "ICEB",
-    "agencyName": "ICEB",
-    "cluster": "other",
+    "agencyCode": "OCC",
+    "agencyName": "Office of the Comptroller of the Currency",
+    "cluster": "finance",
     "docketCount": 54
   },
   {
     "adminId": "biden",
-    "agencyCode": "OCC",
-    "agencyName": "Office of the Comptroller of the Currency",
-    "cluster": "finance",
+    "agencyCode": "ICEB",
+    "agencyName": "ICEB",
+    "cluster": "other",
     "docketCount": 54
   },
   {
@@ -3949,15 +3949,15 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "ATSDR",
-    "agencyName": "ATSDR",
+    "agencyCode": "AID",
+    "agencyName": "AID",
     "cluster": "other",
     "docketCount": 25
   },
   {
     "adminId": "biden",
-    "agencyCode": "AID",
-    "agencyName": "AID",
+    "agencyCode": "ATSDR",
+    "agencyName": "ATSDR",
     "cluster": "other",
     "docketCount": 25
   },
@@ -3974,13 +3974,6 @@
     "agencyName": "COLC",
     "cluster": "other",
     "docketCount": 24
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "ACF",
-    "agencyName": "ACF",
-    "cluster": "other",
-    "docketCount": 23
   },
   {
     "adminId": "biden",
@@ -4005,15 +3998,22 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "EEOC",
-    "agencyName": "EEOC",
+    "agencyCode": "ACF",
+    "agencyName": "ACF",
     "cluster": "other",
-    "docketCount": 22
+    "docketCount": 23
   },
   {
     "adminId": "biden",
     "agencyCode": "DOJ",
     "agencyName": "Department of Justice",
+    "cluster": "other",
+    "docketCount": 22
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "EEOC",
+    "agencyName": "EEOC",
     "cluster": "other",
     "docketCount": 22
   },
@@ -4040,8 +4040,8 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "EAC",
-    "agencyName": "EAC",
+    "agencyCode": "NIST",
+    "agencyName": "NIST",
     "cluster": "other",
     "docketCount": 20
   },
@@ -4054,8 +4054,8 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "NIST",
-    "agencyName": "NIST",
+    "agencyCode": "EAC",
+    "agencyName": "EAC",
     "cluster": "other",
     "docketCount": 20
   },
@@ -4089,8 +4089,8 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "BIA",
-    "agencyName": "BIA",
+    "agencyCode": "NASA",
+    "agencyName": "National Aeronautics and Space Administration",
     "cluster": "other",
     "docketCount": 13
   },
@@ -4110,8 +4110,8 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "NASA",
-    "agencyName": "National Aeronautics and Space Administration",
+    "agencyCode": "BIA",
+    "agencyName": "BIA",
     "cluster": "other",
     "docketCount": 13
   },
@@ -4138,13 +4138,6 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "BOP",
-    "agencyName": "BOP",
-    "cluster": "other",
-    "docketCount": 8
-  },
-  {
-    "adminId": "biden",
     "agencyCode": "CDFI",
     "agencyName": "CDFI",
     "cluster": "other",
@@ -4154,6 +4147,13 @@
     "adminId": "biden",
     "agencyCode": "BLM",
     "agencyName": "BLM",
+    "cluster": "other",
+    "docketCount": 8
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "BOP",
+    "agencyName": "BOP",
     "cluster": "other",
     "docketCount": 8
   },
@@ -4173,15 +4173,15 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "TSA",
-    "agencyName": "TSA",
+    "agencyCode": "ONRR",
+    "agencyName": "ONRR",
     "cluster": "other",
     "docketCount": 6
   },
   {
     "adminId": "biden",
-    "agencyCode": "ONRR",
-    "agencyName": "ONRR",
+    "agencyCode": "TSA",
+    "agencyName": "TSA",
     "cluster": "other",
     "docketCount": 6
   },
@@ -4201,8 +4201,8 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "FAS",
-    "agencyName": "FAS",
+    "agencyCode": "ATF",
+    "agencyName": "ATF",
     "cluster": "other",
     "docketCount": 5
   },
@@ -4215,22 +4215,29 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "ATF",
-    "agencyName": "ATF",
+    "agencyCode": "FAS",
+    "agencyName": "FAS",
     "cluster": "other",
     "docketCount": 5
   },
   {
     "adminId": "biden",
-    "agencyCode": "ACL",
-    "agencyName": "ACL",
+    "agencyCode": "FRTIB",
+    "agencyName": "FRTIB",
     "cluster": "other",
     "docketCount": 4
   },
   {
     "adminId": "biden",
-    "agencyCode": "ONCD",
-    "agencyName": "ONCD",
+    "agencyCode": "EOIR",
+    "agencyName": "EOIR",
+    "cluster": "other",
+    "docketCount": 4
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "FBI",
+    "agencyName": "FBI",
     "cluster": "other",
     "docketCount": 4
   },
@@ -4250,64 +4257,22 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "FBI",
-    "agencyName": "FBI",
+    "agencyCode": "ACL",
+    "agencyName": "ACL",
     "cluster": "other",
     "docketCount": 4
   },
   {
     "adminId": "biden",
-    "agencyCode": "EOIR",
-    "agencyName": "EOIR",
+    "agencyCode": "ONCD",
+    "agencyName": "ONCD",
     "cluster": "other",
     "docketCount": 4
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "FRTIB",
-    "agencyName": "FRTIB",
-    "cluster": "other",
-    "docketCount": 4
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "FISCAL",
-    "agencyName": "FISCAL",
-    "cluster": "other",
-    "docketCount": 3
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "NNSA",
-    "agencyName": "NNSA",
-    "cluster": "other",
-    "docketCount": 3
   },
   {
     "adminId": "biden",
     "agencyCode": "MBDA",
     "agencyName": "MBDA",
-    "cluster": "other",
-    "docketCount": 3
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "NLRB",
-    "agencyName": "NLRB",
-    "cluster": "other",
-    "docketCount": 3
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "OJP",
-    "agencyName": "OJP",
-    "cluster": "other",
-    "docketCount": 3
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "LMSO",
-    "agencyName": "LMSO",
     "cluster": "other",
     "docketCount": 3
   },
@@ -4334,10 +4299,38 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "BLS",
-    "agencyName": "BLS",
+    "agencyCode": "NLRB",
+    "agencyName": "NLRB",
     "cluster": "other",
-    "docketCount": 2
+    "docketCount": 3
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "FISCAL",
+    "agencyName": "FISCAL",
+    "cluster": "other",
+    "docketCount": 3
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "LMSO",
+    "agencyName": "LMSO",
+    "cluster": "other",
+    "docketCount": 3
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "NNSA",
+    "agencyName": "NNSA",
+    "cluster": "other",
+    "docketCount": 3
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "OJP",
+    "agencyName": "OJP",
+    "cluster": "other",
+    "docketCount": 3
   },
   {
     "adminId": "biden",
@@ -4348,8 +4341,15 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "CSB",
-    "agencyName": "CSB",
+    "agencyCode": "ATR",
+    "agencyName": "ATR",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "EAB",
+    "agencyName": "EAB",
     "cluster": "other",
     "docketCount": 2
   },
@@ -4362,8 +4362,29 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "EAB",
-    "agencyName": "EAB",
+    "agencyCode": "PCSCOTUS",
+    "agencyName": "PCSCOTUS",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "NAL",
+    "agencyName": "NAL",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "FPAC",
+    "agencyName": "FPAC",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "IPEC",
+    "agencyName": "IPEC",
     "cluster": "other",
     "docketCount": 2
   },
@@ -4383,50 +4404,22 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "NAL",
-    "agencyName": "NAL",
+    "agencyCode": "BLS",
+    "agencyName": "BLS",
     "cluster": "other",
     "docketCount": 2
   },
   {
     "adminId": "biden",
-    "agencyCode": "PCSCOTUS",
-    "agencyName": "PCSCOTUS",
+    "agencyCode": "CSB",
+    "agencyName": "CSB",
     "cluster": "other",
     "docketCount": 2
   },
   {
     "adminId": "biden",
-    "agencyCode": "IPEC",
-    "agencyName": "IPEC",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "FPAC",
-    "agencyName": "FPAC",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "ATR",
-    "agencyName": "ATR",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "OFPP",
-    "agencyName": "OFPP",
-    "cluster": "other",
-    "docketCount": 1
-  },
-  {
-    "adminId": "biden",
-    "agencyCode": "GAPFAC",
-    "agencyName": "GAPFAC",
+    "agencyCode": "SLSDC",
+    "agencyName": "SLSDC",
     "cluster": "other",
     "docketCount": 1
   },
@@ -4439,15 +4432,15 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "TRAIN",
-    "agencyName": "TRAIN",
+    "agencyCode": "OFR",
+    "agencyName": "OFR",
     "cluster": "other",
     "docketCount": 1
   },
   {
     "adminId": "biden",
-    "agencyCode": "OFR",
-    "agencyName": "OFR",
+    "agencyCode": "TRAIN",
+    "agencyName": "TRAIN",
     "cluster": "other",
     "docketCount": 1
   },
@@ -4467,15 +4460,22 @@
   },
   {
     "adminId": "biden",
-    "agencyCode": "ONDCP",
-    "agencyName": "ONDCP",
+    "agencyCode": "GAPFAC",
+    "agencyName": "GAPFAC",
     "cluster": "other",
     "docketCount": 1
   },
   {
     "adminId": "biden",
-    "agencyCode": "SLSDC",
-    "agencyName": "SLSDC",
+    "agencyCode": "OFPP",
+    "agencyName": "OFPP",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "biden",
+    "agencyCode": "ONDCP",
+    "agencyName": "ONDCP",
     "cluster": "other",
     "docketCount": 1
   },
@@ -4484,56 +4484,56 @@
     "agencyCode": "FDA",
     "agencyName": "Food and Drug Administration",
     "cluster": "health",
-    "docketCount": 6664
+    "docketCount": 6796
   },
   {
     "adminId": "trump-2",
     "agencyCode": "FAA",
     "agencyName": "Federal Aviation Administration",
     "cluster": "transportation",
-    "docketCount": 3413
+    "docketCount": 3473
   },
   {
     "adminId": "trump-2",
     "agencyCode": "EPA",
     "agencyName": "Environmental Protection Agency",
     "cluster": "environment",
-    "docketCount": 667
+    "docketCount": 678
   },
   {
     "adminId": "trump-2",
     "agencyCode": "USCG",
     "agencyName": "USCG",
     "cluster": "other",
-    "docketCount": 589
+    "docketCount": 590
   },
   {
     "adminId": "trump-2",
     "agencyCode": "PHMSA",
     "agencyName": "PHMSA",
     "cluster": "other",
-    "docketCount": 315
+    "docketCount": 354
   },
   {
     "adminId": "trump-2",
     "agencyCode": "CMS",
     "agencyName": "Centers for Medicare & Medicaid Services",
     "cluster": "health",
-    "docketCount": 226
+    "docketCount": 233
   },
   {
     "adminId": "trump-2",
     "agencyCode": "NRC",
     "agencyName": "Nuclear Regulatory Commission",
     "cluster": "other",
-    "docketCount": 222
+    "docketCount": 231
   },
   {
     "adminId": "trump-2",
     "agencyCode": "DEA",
     "agencyName": "DEA",
     "cluster": "other",
-    "docketCount": 220
+    "docketCount": 227
   },
   {
     "adminId": "trump-2",
@@ -4547,35 +4547,35 @@
     "agencyCode": "FRA",
     "agencyName": "Federal Railroad Administration",
     "cluster": "transportation",
-    "docketCount": 202
+    "docketCount": 207
   },
   {
     "adminId": "trump-2",
     "agencyCode": "DOT",
     "agencyName": "Department of Transportation",
     "cluster": "transportation",
-    "docketCount": 195
+    "docketCount": 203
   },
   {
     "adminId": "trump-2",
     "agencyCode": "NCUA",
     "agencyName": "NCUA",
     "cluster": "other",
-    "docketCount": 191
+    "docketCount": 195
   },
   {
     "adminId": "trump-2",
     "agencyCode": "FMCSA",
     "agencyName": "Federal Motor Carrier Safety Administration",
     "cluster": "transportation",
-    "docketCount": 171
+    "docketCount": 175
   },
   {
     "adminId": "trump-2",
     "agencyCode": "FWS",
     "agencyName": "FWS",
     "cluster": "other",
-    "docketCount": 150
+    "docketCount": 153
   },
   {
     "adminId": "trump-2",
@@ -4589,21 +4589,28 @@
     "agencyCode": "ED",
     "agencyName": "Department of Education",
     "cluster": "other",
-    "docketCount": 113
+    "docketCount": 117
   },
   {
     "adminId": "trump-2",
     "agencyCode": "NOAA",
     "agencyName": "National Oceanic and Atmospheric Administration",
     "cluster": "environment",
-    "docketCount": 110
+    "docketCount": 114
   },
   {
     "adminId": "trump-2",
     "agencyCode": "DOD",
     "agencyName": "Department of Defense",
     "cluster": "defense",
-    "docketCount": 96
+    "docketCount": 97
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "CDC",
+    "agencyName": "Centers for Disease Control and Prevention",
+    "cluster": "health",
+    "docketCount": 93
   },
   {
     "adminId": "trump-2",
@@ -4611,13 +4618,6 @@
     "agencyName": "National Highway Traffic Safety Administration",
     "cluster": "transportation",
     "docketCount": 93
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "CDC",
-    "agencyName": "Centers for Disease Control and Prevention",
-    "cluster": "health",
-    "docketCount": 89
   },
   {
     "adminId": "trump-2",
@@ -4631,21 +4631,21 @@
     "agencyCode": "FTC",
     "agencyName": "Federal Trade Commission",
     "cluster": "finance",
-    "docketCount": 81
+    "docketCount": 84
   },
   {
     "adminId": "trump-2",
     "agencyCode": "DOE",
     "agencyName": "Department of Energy",
     "cluster": "environment",
-    "docketCount": 69
+    "docketCount": 70
   },
   {
     "adminId": "trump-2",
     "agencyCode": "HUD",
     "agencyName": "Department of Housing and Urban Development",
     "cluster": "other",
-    "docketCount": 68
+    "docketCount": 69
   },
   {
     "adminId": "trump-2",
@@ -4659,7 +4659,7 @@
     "agencyCode": "IRS",
     "agencyName": "Internal Revenue Service",
     "cluster": "other",
-    "docketCount": 64
+    "docketCount": 66
   },
   {
     "adminId": "trump-2",
@@ -4673,7 +4673,7 @@
     "agencyCode": "BOEM",
     "agencyName": "BOEM",
     "cluster": "other",
-    "docketCount": 57
+    "docketCount": 58
   },
   {
     "adminId": "trump-2",
@@ -4687,14 +4687,14 @@
     "agencyCode": "FHWA",
     "agencyName": "FHWA",
     "cluster": "other",
-    "docketCount": 52
+    "docketCount": 53
   },
   {
     "adminId": "trump-2",
     "agencyCode": "SSA",
     "agencyName": "Social Security Administration",
     "cluster": "other",
-    "docketCount": 50
+    "docketCount": 51
   },
   {
     "adminId": "trump-2",
@@ -4712,13 +4712,6 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "OCC",
-    "agencyName": "Office of the Comptroller of the Currency",
-    "cluster": "finance",
-    "docketCount": 40
-  },
-  {
-    "adminId": "trump-2",
     "agencyCode": "AMS",
     "agencyName": "AMS",
     "cluster": "other",
@@ -4726,17 +4719,24 @@
   },
   {
     "adminId": "trump-2",
+    "agencyCode": "OCC",
+    "agencyName": "Office of the Comptroller of the Currency",
+    "cluster": "finance",
+    "docketCount": 40
+  },
+  {
+    "adminId": "trump-2",
     "agencyCode": "DOS",
     "agencyName": "DOS",
     "cluster": "other",
-    "docketCount": 38
+    "docketCount": 39
   },
   {
     "adminId": "trump-2",
     "agencyCode": "FNS",
     "agencyName": "FNS",
     "cluster": "other",
-    "docketCount": 36
+    "docketCount": 37
   },
   {
     "adminId": "trump-2",
@@ -4750,6 +4750,13 @@
     "agencyCode": "EERE",
     "agencyName": "EERE",
     "cluster": "other",
+    "docketCount": 34
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "FTA",
+    "agencyName": "FTA",
+    "cluster": "other",
     "docketCount": 33
   },
   {
@@ -4761,17 +4768,10 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "FTA",
-    "agencyName": "FTA",
-    "cluster": "other",
-    "docketCount": 30
-  },
-  {
-    "adminId": "trump-2",
     "agencyCode": "USGS",
     "agencyName": "USGS",
     "cluster": "other",
-    "docketCount": 29
+    "docketCount": 30
   },
   {
     "adminId": "trump-2",
@@ -4796,6 +4796,20 @@
   },
   {
     "adminId": "trump-2",
+    "agencyCode": "WCPO",
+    "agencyName": "WCPO",
+    "cluster": "other",
+    "docketCount": 23
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "OPM",
+    "agencyName": "OPM",
+    "cluster": "other",
+    "docketCount": 23
+  },
+  {
+    "adminId": "trump-2",
     "agencyCode": "BIS",
     "agencyName": "BIS",
     "cluster": "other",
@@ -4810,31 +4824,10 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "WCPO",
-    "agencyName": "WCPO",
-    "cluster": "other",
-    "docketCount": 23
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "OPM",
-    "agencyName": "OPM",
-    "cluster": "other",
-    "docketCount": 22
-  },
-  {
-    "adminId": "trump-2",
     "agencyCode": "USN",
     "agencyName": "USN",
     "cluster": "other",
     "docketCount": 21
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "FEMA",
-    "agencyName": "FEMA",
-    "cluster": "other",
-    "docketCount": 20
   },
   {
     "adminId": "trump-2",
@@ -4855,12 +4848,19 @@
     "agencyCode": "NARA",
     "agencyName": "NARA",
     "cluster": "other",
-    "docketCount": 19
+    "docketCount": 20
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "NASA",
-    "agencyName": "National Aeronautics and Space Administration",
+    "agencyCode": "FEMA",
+    "agencyName": "FEMA",
+    "cluster": "other",
+    "docketCount": 20
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "EAC",
+    "agencyName": "EAC",
     "cluster": "other",
     "docketCount": 18
   },
@@ -4873,10 +4873,10 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "FSA",
-    "agencyName": "FSA",
+    "agencyCode": "NASA",
+    "agencyName": "National Aeronautics and Space Administration",
     "cluster": "other",
-    "docketCount": 17
+    "docketCount": 18
   },
   {
     "adminId": "trump-2",
@@ -4894,17 +4894,10 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "EAC",
-    "agencyName": "EAC",
+    "agencyCode": "FSA",
+    "agencyName": "FSA",
     "cluster": "other",
     "docketCount": 17
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "TREAS",
-    "agencyName": "Department of the Treasury",
-    "cluster": "other",
-    "docketCount": 16
   },
   {
     "adminId": "trump-2",
@@ -4917,6 +4910,13 @@
     "adminId": "trump-2",
     "agencyCode": "ASC",
     "agencyName": "ASC",
+    "cluster": "other",
+    "docketCount": 16
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "TREAS",
+    "agencyName": "Department of the Treasury",
     "cluster": "other",
     "docketCount": 16
   },
@@ -4943,9 +4943,9 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "VA",
-    "agencyName": "Department of Veterans Affairs",
-    "cluster": "defense",
+    "agencyCode": "DOJ",
+    "agencyName": "Department of Justice",
+    "cluster": "other",
     "docketCount": 11
   },
   {
@@ -4954,6 +4954,20 @@
     "agencyName": "NRCS",
     "cluster": "other",
     "docketCount": 11
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "VA",
+    "agencyName": "Department of Veterans Affairs",
+    "cluster": "defense",
+    "docketCount": 11
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "USAF",
+    "agencyName": "USAF",
+    "cluster": "other",
+    "docketCount": 10
   },
   {
     "adminId": "trump-2",
@@ -4978,17 +4992,10 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "DOJ",
-    "agencyName": "Department of Justice",
+    "agencyCode": "CISA",
+    "agencyName": "CISA",
     "cluster": "other",
-    "docketCount": 10
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "USAF",
-    "agencyName": "USAF",
-    "cluster": "other",
-    "docketCount": 10
+    "docketCount": 9
   },
   {
     "adminId": "trump-2",
@@ -5006,10 +5013,10 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "CISA",
-    "agencyName": "CISA",
+    "agencyCode": "RHS",
+    "agencyName": "RHS",
     "cluster": "other",
-    "docketCount": 9
+    "docketCount": 8
   },
   {
     "adminId": "trump-2",
@@ -5020,22 +5027,8 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "RHS",
-    "agencyName": "RHS",
-    "cluster": "other",
-    "docketCount": 7
-  },
-  {
-    "adminId": "trump-2",
     "agencyCode": "USTR",
     "agencyName": "USTR",
-    "cluster": "other",
-    "docketCount": 7
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "ICEB",
-    "agencyName": "ICEB",
     "cluster": "other",
     "docketCount": 7
   },
@@ -5048,10 +5041,24 @@
   },
   {
     "adminId": "trump-2",
+    "agencyCode": "ICEB",
+    "agencyName": "ICEB",
+    "cluster": "other",
+    "docketCount": 7
+  },
+  {
+    "adminId": "trump-2",
     "agencyCode": "COE",
     "agencyName": "COE",
     "cluster": "other",
     "docketCount": 7
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "USDA",
+    "agencyName": "Department of Agriculture",
+    "cluster": "environment",
+    "docketCount": 6
   },
   {
     "adminId": "trump-2",
@@ -5083,22 +5090,8 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "USDA",
-    "agencyName": "Department of Agriculture",
-    "cluster": "environment",
-    "docketCount": 6
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "LMSO",
-    "agencyName": "LMSO",
-    "cluster": "other",
-    "docketCount": 5
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "USC",
-    "agencyName": "USC",
+    "agencyCode": "WHD",
+    "agencyName": "WHD",
     "cluster": "other",
     "docketCount": 5
   },
@@ -5111,8 +5104,8 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "FRTIB",
-    "agencyName": "FRTIB",
+    "agencyCode": "LMSO",
+    "agencyName": "LMSO",
     "cluster": "other",
     "docketCount": 5
   },
@@ -5125,15 +5118,22 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "NPS",
-    "agencyName": "NPS",
+    "agencyCode": "USC",
+    "agencyName": "USC",
     "cluster": "other",
-    "docketCount": 4
+    "docketCount": 5
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "OMB",
-    "agencyName": "OMB",
+    "agencyCode": "FRTIB",
+    "agencyName": "FRTIB",
+    "cluster": "other",
+    "docketCount": 5
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "FCIC",
+    "agencyName": "FCIC",
     "cluster": "other",
     "docketCount": 4
   },
@@ -5146,15 +5146,8 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "PBGC",
-    "agencyName": "PBGC",
-    "cluster": "other",
-    "docketCount": 4
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "FCIC",
-    "agencyName": "FCIC",
+    "agencyCode": "NPS",
+    "agencyName": "NPS",
     "cluster": "other",
     "docketCount": 4
   },
@@ -5167,43 +5160,22 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "OSTP",
-    "agencyName": "OSTP",
+    "agencyCode": "PBGC",
+    "agencyName": "PBGC",
     "cluster": "other",
-    "docketCount": 3
+    "docketCount": 4
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "FS",
-    "agencyName": "FS",
+    "agencyCode": "OMB",
+    "agencyName": "OMB",
     "cluster": "other",
-    "docketCount": 3
+    "docketCount": 4
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "EOIR",
-    "agencyName": "EOIR",
-    "cluster": "other",
-    "docketCount": 3
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "ATR",
-    "agencyName": "ATR",
-    "cluster": "other",
-    "docketCount": 3
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "WHD",
-    "agencyName": "WHD",
-    "cluster": "other",
-    "docketCount": 3
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "DOL",
-    "agencyName": "Department of Labor",
+    "agencyCode": "WAPA",
+    "agencyName": "WAPA",
     "cluster": "other",
     "docketCount": 3
   },
@@ -5216,29 +5188,43 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "WAPA",
-    "agencyName": "WAPA",
+    "agencyCode": "ATR",
+    "agencyName": "ATR",
     "cluster": "other",
     "docketCount": 3
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "AHRQ",
-    "agencyName": "AHRQ",
+    "agencyCode": "EOIR",
+    "agencyName": "EOIR",
     "cluster": "other",
-    "docketCount": 2
+    "docketCount": 3
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "CDFI",
-    "agencyName": "CDFI",
+    "agencyCode": "FS",
+    "agencyName": "FS",
     "cluster": "other",
-    "docketCount": 2
+    "docketCount": 3
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "ATSDR",
-    "agencyName": "ATSDR",
+    "agencyCode": "OSTP",
+    "agencyName": "OSTP",
+    "cluster": "other",
+    "docketCount": 3
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "DOL",
+    "agencyName": "Department of Labor",
+    "cluster": "other",
+    "docketCount": 3
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "HHSIG",
+    "agencyName": "HHSIG",
     "cluster": "other",
     "docketCount": 2
   },
@@ -5251,8 +5237,50 @@
   },
   {
     "adminId": "trump-2",
+    "agencyCode": "CDFI",
+    "agencyName": "CDFI",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "ATBCB",
+    "agencyName": "ATBCB",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "ATSDR",
+    "agencyName": "ATSDR",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "HRSA",
+    "agencyName": "HRSA",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "DEPO",
+    "agencyName": "DEPO",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "trump-2",
     "agencyCode": "FPAC",
     "agencyName": "FPAC",
+    "cluster": "other",
+    "docketCount": 2
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "AHRQ",
+    "agencyName": "AHRQ",
     "cluster": "other",
     "docketCount": 2
   },
@@ -5272,43 +5300,8 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "HHSIG",
-    "agencyName": "HHSIG",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "DEPO",
-    "agencyName": "DEPO",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "HRSA",
-    "agencyName": "HRSA",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "ATBCB",
-    "agencyName": "ATBCB",
-    "cluster": "other",
-    "docketCount": 2
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "NIGC",
-    "agencyName": "NIGC",
-    "cluster": "other",
-    "docketCount": 1
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "CEQ",
-    "agencyName": "CEQ",
+    "agencyCode": "FAS",
+    "agencyName": "FAS",
     "cluster": "other",
     "docketCount": 1
   },
@@ -5321,22 +5314,8 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "ONRR",
-    "agencyName": "ONRR",
-    "cluster": "other",
-    "docketCount": 1
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "ATF",
-    "agencyName": "ATF",
-    "cluster": "other",
-    "docketCount": 1
-  },
-  {
-    "adminId": "trump-2",
-    "agencyCode": "NLRB",
-    "agencyName": "NLRB",
+    "agencyCode": "CEQ",
+    "agencyName": "CEQ",
     "cluster": "other",
     "docketCount": 1
   },
@@ -5349,8 +5328,22 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "ERS",
-    "agencyName": "ERS",
+    "agencyCode": "ONRR",
+    "agencyName": "ONRR",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "NIGC",
+    "agencyName": "NIGC",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "ATF",
+    "agencyName": "ATF",
     "cluster": "other",
     "docketCount": 1
   },
@@ -5363,15 +5356,22 @@
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "FAS",
-    "agencyName": "FAS",
+    "agencyCode": "NNSA",
+    "agencyName": "NNSA",
     "cluster": "other",
     "docketCount": 1
   },
   {
     "adminId": "trump-2",
-    "agencyCode": "NNSA",
-    "agencyName": "NNSA",
+    "agencyCode": "NLRB",
+    "agencyName": "NLRB",
+    "cluster": "other",
+    "docketCount": 1
+  },
+  {
+    "adminId": "trump-2",
+    "agencyCode": "ERS",
+    "agencyName": "ERS",
     "cluster": "other",
     "docketCount": 1
   }
