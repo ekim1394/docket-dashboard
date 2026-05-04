@@ -249,7 +249,7 @@
     {
       "adminId": "biden",
       "cluster": "transportation",
-      "docketCount": 10689,
+      "docketCount": 10688,
       "percentage": 22.6
     },
     {
@@ -273,37 +273,37 @@
     {
       "adminId": "trump-2",
       "cluster": "health",
-      "docketCount": 6985,
+      "docketCount": 7249,
       "percentage": 43.9
     },
     {
       "adminId": "trump-2",
       "cluster": "transportation",
-      "docketCount": 4074,
-      "percentage": 25.6
+      "docketCount": 4237,
+      "percentage": 25.7
     },
     {
       "adminId": "trump-2",
       "cluster": "other",
-      "docketCount": 3646,
+      "docketCount": 3779,
       "percentage": 22.9
     },
     {
       "adminId": "trump-2",
       "cluster": "environment",
-      "docketCount": 859,
+      "docketCount": 884,
       "percentage": 5.4
     },
     {
       "adminId": "trump-2",
-      "cluster": "defense",
-      "docketCount": 175,
+      "cluster": "finance",
+      "docketCount": 189,
       "percentage": 1.1
     },
     {
       "adminId": "trump-2",
-      "cluster": "finance",
-      "docketCount": 175,
+      "cluster": "defense",
+      "docketCount": 177,
       "percentage": 1.1
     }
   ]
