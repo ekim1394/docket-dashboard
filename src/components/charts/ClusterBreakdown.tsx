@@ -62,13 +62,13 @@ export default function ClusterBreakdown({
         {clusters.map((c) => (
           <div
             key={c.cluster}
-            className="rounded-lg border border-zinc-800 bg-zinc-900/50 p-3"
+            className="rounded-lg border border-zinc-200 bg-white p-3 dark:border-zinc-800 dark:bg-zinc-900/50"
             style={{ borderLeftWidth: 4, borderLeftColor: CLUSTER_COLORS[c.cluster] ?? CLUSTER_COLORS.other }}
           >
-            <p className="text-2xl font-bold text-zinc-100">
+            <p className="text-2xl font-bold text-zinc-900 dark:text-zinc-100">
               {c.percentage.toFixed(1)}%
             </p>
-            <p className="text-sm font-medium text-zinc-300">
+            <p className="text-sm font-medium text-zinc-700 dark:text-zinc-300">
               {CLUSTER_LABELS[c.cluster] ?? c.cluster}
             </p>
             {c.agencies.length > 0 && (

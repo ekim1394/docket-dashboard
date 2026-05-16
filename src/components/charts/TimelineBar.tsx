@@ -55,7 +55,7 @@ export default function TimelineBar({
 
   return (
     <section className="space-y-2">
-      <span className="text-xs uppercase tracking-wider text-zinc-500">
+      <span className="text-xs uppercase tracking-wider text-zinc-600 dark:text-zinc-500">
         Presidential Administrations
       </span>
 
@@ -69,7 +69,7 @@ export default function TimelineBar({
               type="button"
               onClick={() => onAdminClick(isActive ? null : seg.id)}
               className={`relative flex items-center justify-center overflow-hidden text-xs font-semibold text-white transition-all ${
-                isActive ? "ring-2 ring-white" : ""
+                isActive ? "ring-2 ring-zinc-900 ring-offset-2 ring-offset-white dark:ring-white dark:ring-offset-zinc-950" : ""
               } ${activeAdmin && !isActive ? "opacity-40" : "opacity-100"}`}
               style={{
                 width: `${seg.widthPct}%`,
